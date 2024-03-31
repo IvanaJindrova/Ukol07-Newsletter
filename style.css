@@ -1,0 +1,8 @@
+form {
+    padding: 2rem;
+    background-color: #f0f0f0;
+  }
+
+.red-border {
+    border: 2px solid red;
+}
